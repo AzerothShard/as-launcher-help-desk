@@ -1,0 +1,189 @@
+[
+    {
+        "name": "addonsCollection.zip",
+        "link": "https://codeload.github.com/wowgaming/addon-archive/zip/v1.6",
+        "hash": "3FE5490326947552528A67634EA3DBDF",
+        "version": 1,
+        "optional": 1,
+        "comment": "Addons Collection",
+        "addons": 1,
+        "isDirect": 1,
+        "enabled": 1
+    },
+    {
+        "name": "customItem.zip",
+        "link": "https://codeload.github.com/azerothcore/CustomItemFix/zip/v1.0",
+        "hash": "C5351E3E4FD60CC2FDD04E196841A670",
+        "version": 1,
+        "optional": 1,
+        "comment": "Addon to fix custom item icons",
+        "addons": 1,
+        "isDirect": 1,
+        "enabled": 1
+    },
+    {
+        "name": "patch-7.mpq",
+        "link": "https://github.com/AzerothShard/azerothshard.github.io/releases/download/patches/patch-7.mpq",
+        "hash": "788352CD16731D893EA95A621E99CC76",
+        "version": 1,
+        "optional": 1,
+        "comment": "forgotten kingdoms",
+        "addons": 0,
+        "isDirect": 1,
+        "enabled": 0
+    },
+    {
+        "name": "patch-9.mpq",
+        "link": "https://github.com/maelstrom-net/launcher-web/releases/download/patches/patch-9.mpq",
+        "hash": "483B2753D68E4F17ABC72652368B0242",
+        "version": 1.100000000000000088817841970012523233890533447265625,
+        "optional": 1,
+        "comment": "Realistic night",
+        "addons": 0,
+        "isDirect": 0,
+        "enabled": 1
+    },
+    {
+        "name": "patch-A.mpq",
+        "link": "https://github.com/AzerothShard/azerothshard.github.io/releases/download/patches/patch-A.mpq",
+        "hash": "DEF7438E1BEC4EB9524D84278152F75B",
+        "version": 1.100000000000000088817841970012523233890533447265625,
+        "optional": 1,
+        "comment": "AS Musiche",
+        "addons": 0,
+        "isDirect": 1,
+        "enabled": 0
+    },
+    {
+        "name": "patch-B.mpq",
+        "link": "https://github.com/maelstrom-net/launcher-web/releases/download/patches/patch-B.mpq",
+        "hash": "15859A2C14E33F2384B5A70575E8EC80",
+        "version": 1.100000000000000088817841970012523233890533447265625,
+        "optional": 1,
+        "comment": "Characters HD (WOD)",
+        "addons": 0,
+        "isDirect": 0,
+        "enabled": 1
+    },
+    {
+        "name": "patch-C.mpq",
+        "link": "https://github.com/maelstrom-net/launcher-web/releases/download/patches/patch-C.mpq",
+        "hash": "CBBE5D6EBD90FABE1DB4F2C7BF01F2A1",
+        "version": 1,
+        "optional": 1,
+        "comment": "Water & Tiles HD",
+        "addons": 0,
+        "isDirect": 0,
+        "enabled": 1
+    },
+    {
+        "name": "patch-D.mpq",
+        "link": "https://github.com/AzerothShard/azerothshard.github.io/releases/download/patches/patch-D.mpq",
+        "hash": "CEBA5B01EBB0A7027FD3ADB6D1EDC4B8",
+        "version": 1,
+        "optional": 1,
+        "comment": "AS T19 + MoA + Dev->Italiano",
+        "addons": 0,
+        "isDirect": 0,
+        "enabled": 0
+    },
+    {
+        "name": "patch-E.mpq",
+        "link": "https://github.com/maelstrom-net/launcher-web/releases/download/patches/patch-E.mpq",
+        "hash": "2F7D1F3F1A0493B611A78D397BC53D39",
+        "version": 1,
+        "optional": 1,
+        "comment": "Mount & mob HD",
+        "addons": 0,
+        "isDirect": 0,
+        "enabled": 1
+    },
+    {
+        "name": "patch-F.mpq",
+        "link": "https://github.com/AzerothShard/azerothshard.github.io/releases/download/patches/patch-F.mpq",
+        "hash": "111DDC1DEDC55640C5A84A058F79575B",
+        "version": 1,
+        "optional": 1,
+        "comment": "AS Back del T19 (non compatibili con mac)",
+        "addons": 0,
+        "isDirect": 0,
+        "enabled": 0
+    },
+    {
+        "name": "patch-G.mpq",
+        "link": "https://github.com/AzerothShard/azerothshard.github.io/releases/download/patches/patch-G.mpq",
+        "hash": "428862B030542CD7AEF0BDE521DE3724",
+        "version": 1,
+        "optional": 1,
+        "comment": "AS Achievement timewalking",
+        "addons": 0,
+        "isDirect": 0,
+        "enabled": 0
+    },
+    {
+        "name": "patch-J.mpq",
+        "link": "https://github.com/maelstrom-net/launcher-web/releases/download/patches/patch-J.mpq",
+        "hash": "8BB004C54818283095B12BEA25E11915",
+        "version": 1,
+        "optional": 1,
+        "comment": "Fix characters HD with Mount & mob HD (use it only when you have both installed!)",
+        "addons": 0,
+        "isDirect": 0,
+        "enabled": 1
+    },
+    {
+        "name": "patch-Q.mpq",
+        "link": "https://github.com/AzerothShard/azerothshard.github.io/releases/download/patches/patch-Q.mpq",
+        "hash": "EB6A6ABC7136512A41643C60B9F02D33",
+        "version": 1,
+        "optional": 1,
+        "comment": "AS Canzoni natale",
+        "addons": 0,
+        "isDirect": 1,
+        "enabled": 0
+    },
+    {
+        "name": "patch-S.mpq",
+        "link": "https://github.com/maelstrom-net/launcher-web/releases/download/patches/patch-S.mpq",
+        "hash": "3551BE8B497E66CEED44D96F66EFD742",
+        "version": 1.100000000000000088817841970012523233890533447265625,
+        "optional": 1,
+        "comment": "Blood patch",
+        "addons": 0,
+        "isDirect": 0,
+        "enabled": 1
+    },
+    {
+        "name": "patch-Z.mpq",
+        "link": "https://github.com/AzerothShard/azerothshard.github.io/releases/download/patches/patch-Z.mpq",
+        "hash": "71A27C90DA4A493B2A49D61BFBD406AF",
+        "version": 1,
+        "optional": 1,
+        "comment": "AS Login Patch",
+        "addons": 0,
+        "isDirect": 0,
+        "enabled": 0
+    },
+    {
+        "name": "wow.mpq",
+        "link": "https://github.com/maelstrom-net/launcher-web/releases/download/patches/wow.mpq",
+        "hash": "73B4BD122EC862171D340D2DA9F9D4A5",
+        "version": 1.100000000000000088817841970012523233890533447265625,
+        "optional": 0,
+        "comment": null,
+        "addons": 0,
+        "isDirect": 0,
+        "enabled": 1
+    },
+    {
+        "name": "wowOSX.mpq",
+        "link": "https://github.com/maelstrom-net/launcher-web/releases/download/patches/wowOSX.mpq",
+        "hash": "65F3061F2C81A40CD3FC6BC7603E2621",
+        "version": 1.100000000000000088817841970012523233890533447265625,
+        "optional": 0,
+        "comment": null,
+        "addons": 0,
+        "isDirect": 0,
+        "enabled": 1
+    }
+]
